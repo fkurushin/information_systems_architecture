@@ -4,7 +4,8 @@ Diagrams from information systems architecture course in MEPhI
 ## Guide:
 
 Relations between classes:
-https://habr.com/ru/articles/511798/
+  * https://habr.com/ru/articles/511798/
+  * https://habr.com/ru/articles/738428/
 
 
 ## bicycle ordering
