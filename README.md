@@ -1,6 +1,12 @@
 # information_systems_architecture
 Diagrams from information systems architecture course in MEPhI
 
+## Guide:
+
+Relations between classes:
+https://habr.com/ru/articles/511798/
+
+
 ## bicycle ordering
 ![alt text](https://github.com/fkurushin/information_systems_architecture/blob/master/bicycle%20ordering.png)
 
