@@ -6,6 +6,7 @@ Diagrams from information systems architecture course in MEPhI
 Relations between classes:
   * https://habr.com/ru/articles/511798/
   * https://habr.com/ru/articles/738428/
+  * https://www.cybermedian.com/ru/a-comprehensive-guide-to-uml-class-diagram/
 
 
 ## bicycle ordering
