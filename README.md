@@ -7,6 +7,7 @@ Relations between classes:
   * https://habr.com/ru/articles/511798/
   * https://habr.com/ru/articles/738428/
   * https://www.cybermedian.com/ru/a-comprehensive-guide-to-uml-class-diagram/
+  * https://creately.com/blog/ru/диаграмма/учебное-пособие-по-последовательной/
 
 
 ## bicycle ordering
